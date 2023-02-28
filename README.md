@@ -14,9 +14,12 @@ Variable Access Control: Users can choose who has access to their playlists by s
 When users listen to a playlist, the music playback is synchronized in real-time for all users.
 
 ## Technologies Used
-Spotify API: The platform uses the Spotify API to authenticate users, access their playlists, and play music.
-React: The front-end of the platform is built using React.
-Django: The backend is implement using python framework and taking advantage of REST framework and Models of Django.
+### Spotify API: 
+The platform uses the Spotify API to authenticate users, access their playlists, and play music.
+### React: 
+The front-end of the platform is built using React.
+### Django:
+The backend is implement using python framework and taking advantage of REST framework and Models of Django.
 
 ## Getting Started
 To run the platform locally, you'll need to have the following installed:
