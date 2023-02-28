@@ -28,7 +28,7 @@ npm
 python
 
 ## Installation
-Clone the repository: git clone https://github.com/your-username/collaborative-music-platform.git
+Clone the repository: git clone https://github.com/Sayantan-Ch/HouseParty.git
 Navigate to the repository: cd music_controller/frontend
 Install dependencies: npm install , pip install django
 Start backend server: python manage.py runserver
